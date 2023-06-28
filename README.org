@@ -1,0 +1,22 @@
+
+* NIPS DQN(2013 DQN)
+
+Paper: [[https://arxiv.org/abs/1312.5602][Playing Atari with Deep Reinforcement Learning]]
+
+[[./images/nips_dqn.png]]
+
+* Nature DQN(2015 DQN)
+
+Paper: [[https://www.nature.com/articles/nature14236][Human-level control through deep reinforcement learning]]
+
+[[./images/nature_dqn.png]]
+
+* Double DQN
+
+Paper: [[https://arxiv.org/abs/1509.06461][Deep Reinforcement Learning with Double Q-Learning]]
+
+* Dueling DQN
+
+Paper: [[https://arxiv.org/abs/1511.06581][Dueling Network Architectures for Deep Reinforcement Learning]]
+
+[[./images/dueling_dqn.png]]
